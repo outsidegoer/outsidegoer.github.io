@@ -15,6 +15,6 @@ Now, back to RSS. RSS is kind of like a feed, but as opposed to infinite scroll,
 Because RSS is so old, a bunch of services still support it. Youtube channels can act as RSS feeds, as can certain parts of Twitter or Pinterest. Hell, this site supports Atom (and RSS i think) which allows you to add it to your feed. It's a simple, elegant solution that works for basically everything. I suggest you do your own research into RSS and to start checking your stuff on RSS feeds instead of bloated websites.
 
 This video is a good reference (TLE made it a few months ago):
-[STOP using SOCIAL MEDIA for News, RSS is MUCH BETTER!] [https://www.youtube.com/watch?v=_7LTwnAaQ3k]
+[STOP using SOCIAL MEDIA for News, RSS is MUCH BETTER!](https://www.youtube.com/watch?v=_7LTwnAaQ3k)
 
 On a side note: using RSS with a video player like `mpv` on linux or VLC media player effectively gets rid of ads. YouTube has already started cracking down on adblockers in the USA, and I'm sure they're rolling it out to the rest of the world. 
