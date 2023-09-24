@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My First Post Here"
 date:   2023-09-24 13:46:10 +0100
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Yeah. I finally took the leap and made a blog. I've been reading a couple of actively maintained blogs by my friends, and it seemed to be a great idea. A (basically) self hosted platform where you could share your views and ideas on your own terms. In other words, many of the benefits of having social media without having the zucc spy on you and the glowies remove your posts. Why am I doing this? Probably peer influence. I've made it very clear that I take immense pride in the company that I keep.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Unfortunately, I'm in a bit of a sticky situation at the moment, so I won't be able to house any physical infrastructure for a good while. In fact, I may not be able to use virtual infrastructure either. That's why I'm using Github Pages. Unfortunately it's owned by Microsoft, but it seems to give me enough freedom to do whatever the fuck I want here. In the future, I hope to stop using Github Pages and get my own domain and server. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Like every other human on this planet, I have the urge to procrastinate. I have a lot of tech projects that I might want to host, most of which would genuinely make the world a better place. I have the knowledge required to host whatever I feel like hosting. Even in places where I don't, the skills required involve a relatively small learning curve.
 
-Jekyll also offers powerful support for code snippets:
+*So why do I not have these services running yet?*
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I'm lazy and short on cash. I don't have servers yet. However, I think this blog could serve as the start of something new, and my future circumstances might allow me to host something I'm passionate about. By the end of this year, I expect this blog to be only one of multiple services that I host myself. I'll find a way to make time for this because it's probably a more productive activity than doomscrolling on reddit. Hold me accountable.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
