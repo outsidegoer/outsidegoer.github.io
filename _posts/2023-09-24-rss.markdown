@@ -4,7 +4,7 @@ title: Why I use RSS and Atom
 date: 2023-09-24 18:52:00 +0100
 ---
 
-It's crazy how old these technologies are. They're so old I'd never even heard of them until an ICT class in the 7th grade, and sadly didn't hear about it for years to come. It's almost been forgotten but I'd argue it's one of the best things the internet has to offer. Anyone who knows me understands that I hate how distracting the internet is. I put my phone on greyscale, delete social media accounts, and even avoid bringing my phone with me to certain places because of how tempting it can be to use the internet and get lost in some infinite scroll scenario. 
+It's crazy how old these technologies are. They're so old I'd never even heard of RSS until an ICT class in the 7th grade, and sadly didn't hear about it again for years to come. It's almost been forgotten but I'd argue it's one of the best things the internet has to offer. Anyone who knows me understands that I hate how distracting the internet is. I put my phone on greyscale, delete social media accounts, and even avoid bringing my phone with me to certain places because of how tempting it can be to use the internet and get lost in some infinite scroll scenario. 
 
 You're probably too reluctant or too scared to actually get rid of the technology, whether it's YouTube, Reddit, Twitter, Pinterest, th news, or some random blogger whose posts are pretty neat. Hence, you install the app, or you keep your browser enabled, and you open the website to check if someone you follow posted something. Checkmate. They have you by the balls. Once you're on, there's an algorithm whose entire job is to keep you hooked and waste your time. You can't outsmart it. I wish I was kidding when I said this, but it can literally guess when women are pregnant before they know it.
 
@@ -15,6 +15,6 @@ Now, back to RSS. RSS is kind of like a feed, but as opposed to infinite scroll,
 Because RSS is so old, a bunch of services still support it. Youtube channels can act as RSS feeds, as can certain parts of Twitter or Pinterest. Hell, this site supports Atom (and RSS i think) which allows you to add it to your feed. It's a simple, elegant solution that works for basically everything. I suggest you do your own research into RSS and to start checking your stuff on RSS feeds instead of bloated websites.
 
 This video is a good reference (TLE made it a few months ago):
-https://www.youtube.com/watch?v=_7LTwnAaQ3k
+[STOP using SOCIAL MEDIA for News, RSS is MUCH BETTER!][https://www.youtube.com/watch?v=_7LTwnAaQ3k]
 
 On a side note: using RSS with a video player like `mpv` on linux or VLC media player effectively gets rid of ads. YouTube has already started cracking down on adblockers in the USA, and I'm sure they're rolling it out to the rest of the world. 
