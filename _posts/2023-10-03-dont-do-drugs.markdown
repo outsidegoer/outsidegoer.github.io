@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don't Do Drugs"
-date: 2023-10-03 22:01:00
+date: 2023-10-03 22:01:00 +0100
 ---
 
 On my way home, I saw a man passed out. In large cities, it isn't really odd (especially on sundays) to see someone drunk and passed out, but this was particularly strange as it was right in front of a major building. Most people just walked past the man, assuming there was nothing wrong. What I found particularly strange was the way the man was dressed: he was wearing a neat pair of jeans and had a backpack on. He had a can of beer resting between his thighs, and was holding a lighter. Next to him were two bottles of water, which I believe were sealed (I can't say for sure though). 
